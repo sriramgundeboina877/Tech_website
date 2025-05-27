@@ -1,0 +1,1 @@
+Venky Tech – A responsive tech-themed landing page built with HTML and CSS, featuring a modern layout with services, testimonials, and a contact form. Ideal for showcasing gadgets or technology-related products and services
